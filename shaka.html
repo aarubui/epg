@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Shaka Demo</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+  </head>
+  <body>
+    <video id="video" controls autoplay style="max-width:100%"></video>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/shaka-player/4.1.0/shaka-player.compiled.js"></script>
+    <script>
+      function param(name) {
+        var result = null, tmp = [];
+        location.search
+          .substr(1)
+          .split("&")
+          .forEach(function (item) {
+            tmp = item.split("=");
+            if (tmp[0] === name) result = decodeURIComponent(tmp[1]);
+          });
+        return result;
+      }
+
+      const video = document.getElementById('video');
+      const player = new shaka.Player(video);
+      player.configure({
+        drm: {
+          servers: {
+            'com.widevine.alpha': param('license')
+          }
+        }
+      });
+      player.load(param('url'));
+    </script>
+  </body>
+</html>

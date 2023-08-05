@@ -13,10 +13,14 @@ DTSTART:20230806T145000Z
 DTEND:20230806T170500Z
 UID:tv.tvbjade-20230806225000
 DESCRIPTION:TVB呈獻2023年「英格蘭社區盾」，由上季英超盟
- 主曼城、亞軍阿仙奴合演強強對壘，為新一個英倫頂級
- 聯賽球季拉開序幕。節目直擊「藍月亮」與「兵工廠」
- 的精彩激鬥，主持鍾志光、陳偉豪、嘉賓陳志康為廣大
- 球迷帶來專業評述。
+ 主曼城、亞軍阿仙奴合演強強對壘。節目直擊「藍月亮
+ 」與「兵工廠」的精彩激鬥，主持鍾志光、陳偉豪、嘉
+ 賓陳志康為廣大球迷帶來專業評述。阿仙奴上季英超未
+ 竟全功，被曼城後上封王，這支倫敦勁旅季前大事擴軍
+ ，今仗勢必力爭擊敗對手，以展示角逐頂級聯賽錦標的
+ 實力與決心！上季「三冠王」曼城今夏縱有中前場主將
+ 流失，陣容仍算雄厚，今場亦絕對有力挫退勁敵，為新
+ 球季打響頭炮！
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -25,6 +29,29 @@ SUMMARY:(643台)2023/24 歐洲聯賽冠軍盃抽籤 第1集[直播] - 附
 DTSTART:20230807T100000Z
 DTEND:20230807T102000Z
 UID:tv.now643-20230807180000
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(76台)德國盃足球賽-布倫瑞克 對 史浩克04[直播]
+DTSTART:20230811T184000Z
+DTEND:20230811T204500Z
+UID:tv.hkibc-20230812024000
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(76台)德國盃足球賽-肖特緬恩斯 對 多蒙特[直播]
+DTSTART:20230812T132500Z
+DTEND:20230812T153000Z
+UID:tv.hkibc-20230812212500
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(77台)德國盃足球賽 - 貝森布呂克 對 慕遜加柏[直
+ 播]
+DTSTART:20230811T155500Z
+DTEND:20230811T180000Z
+UID:tv.opentv-20230811235500
+DESCRIPTION:貝森布呂克 對 慕遜加柏
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR

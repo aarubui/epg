@@ -7,23 +7,6 @@ TIMEZONE:Asia/Hong_Kong
 X-WR-CALNAME:HKTV Football
 X-WR-TIMEZONE:Asia/Hong_Kong
 BEGIN:VEVENT
-SUMMARY:(81台)英格蘭社區盾2023 - 阿仙奴 對 曼城[直播][粵/
- 英]
-DTSTART:20230806T145000Z
-DTEND:20230806T170500Z
-UID:tv.tvbjade-20230806225000
-DESCRIPTION:TVB呈獻2023年「英格蘭社區盾」，由上季英超盟
- 主曼城、亞軍阿仙奴合演強強對壘。節目直擊「藍月亮
- 」與「兵工廠」的精彩激鬥，主持鍾志光、陳偉豪、嘉
- 賓陳志康為廣大球迷帶來專業評述。阿仙奴上季英超未
- 竟全功，被曼城後上封王，這支倫敦勁旅季前大事擴軍
- ，今仗勢必力爭擊敗對手，以展示角逐頂級聯賽錦標的
- 實力與決心！上季「三冠王」曼城今夏縱有中前場主將
- 流失，陣容仍算雄厚，今場亦絕對有力挫退勁敵，為新
- 球季打響頭炮！
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:(643台)2023/24 歐洲聯賽冠軍盃抽籤 第1集[直播] - 附
  加賽
 DTSTART:20230807T100000Z
@@ -50,6 +33,14 @@ SUMMARY:(76台)德國盃足球賽-紅白艾遜 對 漢堡[直播]
 DTSTART:20230813T105500Z
 DTEND:20230813T130000Z
 UID:tv.hkibc-20230813185500
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(77台)德國盃足球賽 - 呂貝克 對 賀芬咸[直播]
+DTSTART:20230814T155500Z
+DTEND:20230723T180000Z
+UID:tv.opentv-20230814235500
+DESCRIPTION:呂貝克 對 賀芬咸
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

@@ -70,7 +70,13 @@ DTSTART:20250608T072500Z
 DTEND:20250608T094500Z
 DTSTAMP:20250601T072500Z
 UID:tv.tvbjade-20250608152500
-SEQUENCE:0
+SEQUENCE:1
+DESCRIPTION:「國際青年足球慈善盃」於2025年6月上旬舉行，
+ 這項盛事結合體育、慈善與文化交流元素，中國香港U20
+ 、中國湖北U18足球代表隊、日職U20選拔隊、馬拉加U20隊
+ ，四支來自不同地方的青年足球隊會師啟德青年運動場
+ ，力爭成為賽事王者！TVB送上冠軍決戰的龍爭虎鬥，並
+ 由何振然、潘文廸帶來專業評述。
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

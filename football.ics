@@ -13,12 +13,9 @@ DTSTART:20250621T065500Z
 DTEND:20250621T090000Z
 DTSTAMP:20250614T065500Z
 UID:tv.tvbj2-20250621145500
-SEQUENCE:0
-DESCRIPTION:日本職業足球聯賽以高水平的競爭實力、完善
- 的青訓系統、熱情的球迷文化聞名。新一季「日職」由
- 衛冕盟主神戶勝利船、勁旅鹿島鹿角等二十支球隊角逐
- ，TVB送上精選比拼，讓觀眾感受亞洲頂級足球聯賽的魅
- 力！
+SEQUENCE:1
+DESCRIPTION:日本職業足球聯賽 2025 - 町田澤維亞 對 鹿島鹿
+ 角
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

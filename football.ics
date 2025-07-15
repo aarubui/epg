@@ -108,4 +108,19 @@ SEQUENCE:0
 DESCRIPTION:日職2025 - 鹿島鹿角 對 柏雷素爾
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(82台)日本職業足球聯賽 2025 - 福岡黃蜂 對 京都不
+ 死鳥[粵/英][直播] 及 警聲百二秒 III[粵]
+DTSTART:20250721T085500Z
+DTEND:20250721T110000Z
+DTSTAMP:20250714T085500Z
+UID:tv.tvbj2-20250721165500
+SEQUENCE:0
+DESCRIPTION:日本職業足球聯賽以高水平的競爭實力、完善
+ 的青訓系統、熱情的球迷文化聞名。新一季「日職」由
+ 衛冕盟主神戶勝利船、勁旅鹿島鹿角等二十支球隊角逐
+ ，TVB送上精選比拼，讓觀眾感受亞洲頂級足球聯賽的魅
+ 力！
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR

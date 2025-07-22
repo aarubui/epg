@@ -7,18 +7,6 @@ CALNAME:HKTV Football
 TIMEZONE:Asia/Hong_Kong
 X-WR-TIMEZONE:Asia/Hong_Kong
 BEGIN:VEVENT
-SUMMARY:(82台)日本職業足球聯賽 2025 - 福岡黃蜂 對 京都不
- 死鳥[粵/英][直播] 及 警聲百二秒 III[粵]
-DTSTART:20250721T085500Z
-DTEND:20250721T110000Z
-DTSTAMP:20250714T085500Z
-UID:tv.tvbj2-20250721165500
-SEQUENCE:1
-DESCRIPTION:日本職業足球聯賽 2025 - 福岡黃蜂 對 京都不死
- 鳥
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:(76台)UEFA 歐洲國家盃女子足球賽 2025準決賽-英格蘭
   對 意大利[直播]
 DTSTART:20250722T185000Z
@@ -45,8 +33,8 @@ DTSTART:20250726T152500Z
 DTEND:20250726T173000Z
 DTSTAMP:20250719T152500Z
 UID:tv.tvbpearl-20250726232500
-SEQUENCE:1
-DESCRIPTION:為迎接新球季，巴塞羅拿、燕豪芬、阿積士、
+SEQUENCE:2
+DESCRIPTION:為迎接新球季，巴塞羅那、燕豪芬、阿積士、
  摩納哥等歐洲各地頂級聯賽勁旅，紛紛約戰實力隊伍，
  藉着季前熱身賽檢視陣容、提升狀態。TVB送上焦點戲碼
  ，附設雙語旁述，讓球迷提前熱身！
@@ -59,8 +47,8 @@ DTSTART:20250727T095500Z
 DTEND:20250727T120000Z
 DTSTAMP:20250720T095500Z
 UID:tv.tvbpearl-20250727175500
-SEQUENCE:1
-DESCRIPTION:為迎接新球季，巴塞羅拿、燕豪芬、阿積士、
+SEQUENCE:2
+DESCRIPTION:為迎接新球季，巴塞羅那、燕豪芬、阿積士、
  摩納哥等歐洲各地頂級聯賽勁旅，紛紛約戰實力隊伍，
  藉着季前熱身賽檢視陣容、提升狀態。TVB送上焦點戲碼
  ，附設雙語旁述，讓球迷提前熱身！

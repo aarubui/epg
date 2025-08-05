@@ -58,4 +58,19 @@ SEQUENCE:0
 DESCRIPTION:荷甲2025/2026 - 阿積士 對 泰斯達
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(82台)日本職業足球聯賽 2025 - 大阪櫻花 對 新潟天
+ 鵝[粵/英][直播]
+DTSTART:20250811T095500Z
+DTEND:20250811T120000Z
+DTSTAMP:20250804T095500Z
+UID:tv.tvbj2-20250811175500
+SEQUENCE:0
+DESCRIPTION:日本職業足球聯賽以高水平的競爭實力、完善
+ 的青訓系統、熱情的球迷文化聞名。新一季「日職」由
+ 衛冕盟主神戶勝利船、勁旅鹿島鹿角等二十支球隊角逐
+ ，TVB送上精選比拼，讓觀眾感受亞洲頂級足球聯賽的魅
+ 力！
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
